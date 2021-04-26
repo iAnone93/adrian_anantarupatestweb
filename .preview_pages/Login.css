@@ -1,0 +1,122 @@
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/jinno-lokapala-640x3601.jpg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 374px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 241px;
+  width: 1080px;
+  margin: 21px auto 0;
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-text-1 {
+  margin: -44px 838px 0 150px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: -22px 744px 60px 309px;
+}
+
+.u-section-1 .u-btn-2 {
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 419px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 845px;
+    margin-top: 51px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: -46px;
+    margin-right: 590px;
+    margin-left: 170px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-right: 502px;
+    margin-left: 335px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 724px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -43px;
+    margin-right: 433px;
+    margin-left: 122px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 349px;
+    margin-left: 280px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 543px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: 25px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 228px;
+    margin-left: 118px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 156px;
+    margin-left: 281px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 342px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: 8px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -53px;
+    margin-right: 64px;
+    margin-left: 124px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 0;
+    margin-right: 87px;
+    margin-left: 124px;
+  }
+}
